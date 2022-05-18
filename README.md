@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&text=BrooklynKim's%20GitHub!&fontColor=FAFAD2&fontSize=30&fontAlignY=28&fontAlign=25&animation=twinkling)
   
 ### Hi there 👋 
 - 💻 I’m currently working on Java Web Programming
@@ -15,10 +15,11 @@
 ----
 ## 🚀 _Now_ 🚀
 
+### 📖 Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrooklynKim)](https://github.com/BrooklynKim/github-readme-stats)
-####
+### 📈 Stat
 ![BrooklynKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrooklynKim&show_icons=true&theme=radical)
- ######
+### 💯 BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=getitacc)](https://solved.ac/getitacc)
 <img src="http://mazandi.herokuapp.com/api?handle=getitacc&theme=silver"/> 
 
