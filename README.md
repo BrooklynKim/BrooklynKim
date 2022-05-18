@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=BrooklynKim's%20GitHub!&fontColor=FAFAD2&fontSize=30&fontAlignY=28&fontAlign=25&animation=twinkling)
   
 ### Hi there 👋 
-- 💻 I’m currently working on Java Web Programming
+### 😁 About Me
+- 💻 I am currently working as a Java Web developer
 - ✏️ 2020.03 ~ 2020.09 GreenComputer Academy Completing the Java Web Development Course
 - 💾 This is my storage space for Java Web development
 - 💬 Ask me about ... <a href=iphone@kakao.com><img src="https://img.shields.io/badge/Kakao Mail-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
