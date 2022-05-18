@@ -6,7 +6,7 @@
 - ✏️ 2020.03 ~ 2020.09 GreenComputer Academy Completing the Java Web Development Course
 - 💾 This is my storage space for Java Web development
 - 💬 Ask me about ... <a href=iphone@kakao.com><img src="https://img.shields.io/badge/Kakao Mail-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
-<a href=blog.naver.com/getitacc><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href=https://blog.naver.com/getitacc><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 - 🛎️ Welcome! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrooklynKim&count_bg=%2379C83D&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ----
 ### 🛠️ The tools and languages I use 🛠️
