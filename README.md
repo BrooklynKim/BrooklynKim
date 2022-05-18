@@ -15,11 +15,12 @@
 ----
 ## 🚀 _Now_ 🚀
 
-![BrooklynKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrooklynKim&show_icons=true&theme=radical)
-####
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrooklynKim)](https://github.com/BrooklynKim/github-readme-stats)
- <img src="http://mazandi.herokuapp.com/api?handle=getitacc&theme=silver"/> 
+####
+![BrooklynKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrooklynKim&show_icons=true&theme=radical)
+ ######
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=getitacc)](https://solved.ac/getitacc)
+<img src="http://mazandi.herokuapp.com/api?handle=getitacc&theme=silver"/> 
 
 
 
