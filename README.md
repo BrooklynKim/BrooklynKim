@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&fontSize=50&animation=blinking&fontColor=FFE4E1&fontAlign=50&fontAlignY=40)
+
+  
 ### Hi there 👋 
 - 💻 I’m currently working on Java Web Programming
 - ✏️ 2020.03 ~ 2020.09 GreenComputer Academy Completing the Java Web Development Course
@@ -12,14 +13,25 @@
 #### <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Atom-66595C?style=plastic&logo=Atom&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/Qgis-589632?style=plastic&logo=Qgis&logoColor=white"/>
 
 ----
-## 🚀 Now 🚀
-  
+## 🚀 _Now_ 🚀
+
+![BrooklynKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrooklynKim&show_icons=true&theme=radical)
+####
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrooklynKim)](https://github.com/BrooklynKim/github-readme-stats)
+ <img src="http://mazandi.herokuapp.com/api?handle=getitacc&theme=silver"/> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=getitacc)](https://solved.ac/getitacc)
+
+
+
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&fontSize=50&animation=blinking&fontColor=FFE4E1&fontAlign=50&fontAlignY=40)
+
+[![BrooklynKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrooklynKim)](https://github.com/BrooklynKim/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrooklynKim&langs_count=8&theme=tokyonight)](https://github.com/BrooklynKim/github-readme-stats)
  
 
 
-<!--
+
 **BrooklynKim/BrooklynKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
