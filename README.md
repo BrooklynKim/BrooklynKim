@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=BrooklynKim's%20GitHub!&fontColor=FAFAD2&fontSize=30&fontAlignY=28&fontAlign=25&animation=twinkling)
-  
-### Hi there 👋 
+<!--![header](https://capsule-render.vercel.app/api?type=waving&text=BrooklynKim's%20GitHub!&fontColor=FAFAD2&fontSize=30&fontAlignY=28&fontAlign=25&animation=twinkling) -->
+### <mark>Hi there 👋</mark>
+### <mark>Welcome My Github!</mark>
+![IMG_0804](https://user-images.githubusercontent.com/67566116/169253237-4cf07c28-d027-450c-ad94-a8c958806347.gif)
+*****
 ### 😁 About Me
 - 💻 I am currently working as a Java Web developer
 - ✏️ 2020.03 ~ 2020.09 GreenComputer Academy Completing the Java Web Development Course
@@ -24,7 +26,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=getitacc)](https://solved.ac/getitacc)
 <img src="http://mazandi.herokuapp.com/api?handle=getitacc&theme=silver"/> 
 
-
+![39Cg](https://user-images.githubusercontent.com/67566116/169252364-815ad975-557c-432c-acfa-61dd657f892d.gif)
 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&fontSize=50&animation=blinking&fontColor=FFE4E1&fontAlign=50&fontAlignY=40)
