@@ -1,7 +1,12 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&text=BrooklynKim's%20GitHub!&fontColor=FAFAD2&fontSize=30&fontAlignY=28&fontAlign=25&animation=twinkling) -->
-### <mark>Hi there 👋</mark>
+<div align="center">
+ 
+## <mark>Hi there 👋</mark>
 ### <mark>Welcome My Github!</mark>
 ![IMG_0804](https://user-images.githubusercontent.com/67566116/169253237-4cf07c28-d027-450c-ad94-a8c958806347.gif)
+ 
+</div>
+
 *****
 ### 😁 About Me
 - 💻 I am currently working as a Java Web developer
