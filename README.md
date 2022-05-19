@@ -27,7 +27,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle=getitacc&theme=silver"/> 
 
 ![39Cg](https://user-images.githubusercontent.com/67566116/169252364-815ad975-557c-432c-acfa-61dd657f892d.gif)
-
+*****
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&fontSize=50&animation=blinking&fontColor=FFE4E1&fontAlign=50&fontAlignY=40)
 
